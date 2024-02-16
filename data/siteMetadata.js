@@ -13,7 +13,7 @@ const siteMetadata = {
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'wssranjula1@gmail.com',
   github: 'https://github.com/wssranjula',
-  twitter: 'https://twitter.com/Twitter',
+  twitter: 'https://twitter.com/RanjulaShehan',
   facebook: 'https://web.facebook.com/wssranjula/',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/suresh-ranjula-970a42106',
