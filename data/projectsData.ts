@@ -6,12 +6,24 @@ interface Project {
 }
 
 const projectsData: Project[] = [
-  // {
-  //   title: 'A  Generative AI Portal',
-  //   description: `A Genrative Application Portal with UI to Code, Code Reviewer, Test Case Genrater and Enterprise GPT4V tools`,
-  //   imgSrc: '/static/images/aibud.png',
-  //   href: 'https://www.google.com',
-  // },
+  {
+    title: 'Outbound calling AI Agent with GPT4',
+    description: `An AI agent that can make outbound calls and and gather information. IN the scenario we created AI agent to call and get confirmation for the Appointement`,
+    imgSrc: '/static/images/1.jpg',
+    href: 'https://www.google.com',
+  },
+  {
+    title: 'Inbound  call answering AI Agent with GPT4',
+    description: `An AI agent that can answer incoming  calls and and gather information. Agent will analyse the intent and transfer the call to a human agent if required`,
+    imgSrc: '/static/images/3.jpg',
+    href: 'https://www.google.com',
+  },
+  {
+    title: 'Email Automation System with GPT4',
+    description: `A system that will monitor incodming emails , tag it classify the email based on its urgency and genrate email response based on company bes practices and save it to drafts`,
+    imgSrc: '/static/images/5.jpeg',
+    href: 'https://www.google.com',
+  },
   {
     title: 'Flowise/Voiceflow/BotPress Automations with Zapier/Make',
     description: `AI Assistant chatbot that will answer to your Questions about your Buisness or Applications,
