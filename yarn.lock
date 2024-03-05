@@ -4336,7 +4336,9 @@
     "iconv-lite" "^0.4.4"
     "sax" "^1.2.4"
 
-"next-contentlayer@^0.3.4", "next-contentlayer@0.3.4":
+"next-contentlayer@^0.3.4":
+  "integrity" "sha512-UtUCwgAl159KwfhNaOwyiI7Lg6sdioyKMeh+E7jxx0CJ29JuXGxBEYmCI6+72NxFGIFZKx8lvttbbQhbnYWYSw=="
+  "resolved" "https://registry.npmjs.org/next-contentlayer/-/next-contentlayer-0.3.4.tgz"
   "version" "0.3.4"
   dependencies:
     "@contentlayer/core" "0.3.4"
